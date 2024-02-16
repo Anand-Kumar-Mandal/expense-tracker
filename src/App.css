@@ -20,7 +20,7 @@ body {
 }
 
 .container {
-  margin: 30px auto;
+  margin: 40px 10px;
   width: 350px;
 }
 
@@ -108,6 +108,7 @@ input[type='number'] {
 .list {
   list-style-type: none;
   padding: 0;
+  margin-left: 5px;
   margin-bottom: 40px;
 }
 
@@ -119,7 +120,7 @@ input[type='number'] {
   justify-content: space-between;
   position: relative;
   padding: 10px;
-  margin: 10px 0;
+  margin: 10px 5px;
 }
 
 .list li.plus {
@@ -131,7 +132,7 @@ input[type='number'] {
 }
 
 .delete-btn {
-  cursor: pointer;
+  cursor:pointer;
   background-color: #e74c3c;
   border: 0;
   color: #fff;
